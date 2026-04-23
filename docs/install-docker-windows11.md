@@ -53,7 +53,7 @@ docker compose --version
 ## 必要なファイルを準備
 
 1. 以下のリンクから環境構築に使うファイルをダウンロードする
-    * https://github.com/myjlab/myj-fastapi-web-app
+    * https://github.com/dyovu/myj-fastapi-web-app-main
     * 右の方にある緑色の Clone or download ボタンから Download ZIP を選択
    ![clone zip](raw/../images/clone-zip.png)
 2. zip ファイルを*デスクトップ*に移動

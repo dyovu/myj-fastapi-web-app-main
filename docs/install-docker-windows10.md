@@ -52,6 +52,15 @@ docker compose --version
 
 <img width="600" alt="cmd.png" src="images/version.png">
 
+## 必要なファイルを準備
+
+1. 以下のリンクから環境構築に使うファイルをダウンロードする
+    * https://github.com/dyovu/myj-fastapi-web-app-main
+    * 右の方にある緑色の Clone or download ボタンから Download ZIP を選択
+   <img width="1200" alt="Download zip" src="images/clone-zip.png">
+2. zip ファイルを*デスクトップ*に移動
+3. zipファイルを展開する
+
 ---
 ここまでできたら[READMEの起動方法へ](../README.md#起動方法)
 --
