@@ -36,7 +36,7 @@ This is a TODO application built with:
 ### Project Startup
 ```bash
 # Start the entire application
-docker-compose up
+docker compose up
 
 # Access points:
 # - API documentation: http://localhost:8000/docs

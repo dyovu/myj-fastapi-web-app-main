@@ -35,7 +35,7 @@
 ### 2. コマンドで確認
 ```bash
 docker --version
-docker-compose --version
+docker compose --version
 ```
 
 出力例

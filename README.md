@@ -17,7 +17,7 @@ cd myj-fastapi-web-app-main
 
 2. 以下のコマンドを実行してprjを起動します。
 ```bash
-docker-compose up
+docker compose up
 ```
 ※ ⚠️ ※ **注意** 初回はかなり時間がかかるので，下記のログが出力されるまではしばらく待機
 <img width="800" alt="cmd.png" src="docs/images/docker-first-up-output.png">
@@ -32,7 +32,7 @@ docker-compose up
 
 ### 停止
 
-docker-compose up コマンドを実行したウィンドウで `Ctrl + c`。
+docker compose up コマンドを実行したウィンドウで `Ctrl + c`。
 
 ## 開発の進め方
 ### api
@@ -63,7 +63,7 @@ vscodeの拡張機能で構造変更を行う、こちらのドキュメント[h
 1. `cd`
 2. `cd Desktop`
 3. `cd myj-fastapi-web-app-main`
-4. `docker-compose up`
+4. `docker compose up`
 
 ### 新しいパッケージの追加
 macの場合: `sh script/add-package.sh <パッケージ名>`

@@ -45,7 +45,7 @@
 
 ```bash
 docker --version
-docker-compose --version
+docker compose --version
 ```
 
 出力例
